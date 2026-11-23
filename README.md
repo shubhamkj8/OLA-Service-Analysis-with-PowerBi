@@ -23,7 +23,7 @@ Power BI
 DAX
 CSV Dataset
 Repository Structure
-Plain Text
+
 OLA-Ride-Booking-Analytics/
 │
 ├── Dataset/
@@ -93,7 +93,7 @@ FROM Booking
 GROUP BY Vehicle_Type;
 Power BI Dashboard
 
-The dashboard contains 5 reporting pages:
+# The dashboard contains 5 reporting pages:
 
 # Overall Analysis
 Total Bookings: 40.54K
@@ -156,3 +156,5 @@ This project analyzed 40.54K ride bookings and ₹13.76M in booking value to eva
 
 Shubham Kumar Jha
 Aspiring Data Analyst | SQL | Power BI | Excel | Tableau | Python
+
+
