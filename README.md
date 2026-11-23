@@ -1,10 +1,10 @@
-OLA Ride Booking Analytics | SQL Server & Power BI
-Overview
+# OLA Ride Booking Analytics | SQL Server & Power BI
+# Overview
 
 An end-to-end Data Analytics project built using MS SQL Server and Power BI to analyze OLA ride booking operations. The project transforms raw ride-booking data into actionable insights through SQL analysis, KPI reporting, and interactive dashboards.
 
-Project Workflow
-Plain Text
+# Project Workflow
+
 Raw CSV Dataset
 ↓
 MS SQL Server
@@ -50,7 +50,7 @@ OLA-Ride-Booking-Analytics/
 │ └── Ratings.png
 │
 └── README.md
-Business Requirements
+# Business Requirements
 
 The reporting solution was designed to analyze:
 
@@ -72,7 +72,7 @@ Customer Ratings
 Driver Ratings
 V_TAT
 C_TAT
-SQL Analysis
+# SQL Analysis
 
 Business requirements were addressed using SQL queries such as:
 
@@ -95,7 +95,7 @@ Power BI Dashboard
 
 The dashboard contains 5 reporting pages:
 
-Overall Analysis
+# Overall Analysis
 Total Bookings: 40.54K
 Successful Bookings: 25.21K
 Total Booking Value: ₹13.76M
